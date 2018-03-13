@@ -1,0 +1,26 @@
+h1{
+	color: tomato;
+	text-align: center;
+}
+ul{
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+	overflow: hidden;
+	background-color: #333333;
+}
+li{
+	float: left;
+}
+li a{
+	text-decoration: none;
+	display: block;
+	padding: 16px;
+	text-align: center;
+	color: white;
+	font-size: 18px;
+	font-weight: bold;
+}
+li a:hover{
+	background-color: grey;
+}
